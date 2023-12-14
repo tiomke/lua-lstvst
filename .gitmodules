@@ -1,0 +1,6 @@
+[submodule "3rd/inspect"]
+	path = 3rd/inspect
+	url = https://github.com/kikito/inspect.lua.git
+[submodule "3rd/messagepack"]
+	path = 3rd/messagepack
+	url = https://github.com/markstinson/lua-MessagePack.git
