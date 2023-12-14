@@ -115,7 +115,7 @@ lstvst.msgpack = {pack= function() print("not binded") end}
 lstvst.inspect = function() print("not binded") end
 
 lstvst._VERSION = "0.1.0"
-lstvst._DESCRIPTION = "lua-lstvst: Lua List Accessor"
+lstvst._DESCRIPTION = "lua-lstvst: Lua Sequence Table Accessor"
 lstvst._LICENSE = [[
   MIT LICENSE
 
